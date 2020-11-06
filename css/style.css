@@ -1,35 +1,31 @@
 @font-face {
     font-family: 'CeraPRO-Bold';
-    src: local(※);
-    url('/css/font/Cera_Pro_Bold.woff2') format('woff2');
+    src: url('/css/font/Cera_Pro_Bold.woff2') format('woff2');
     font-style: normal;
-    font-weight: bold;
+    font-weight: normal;
 }
 @font-face {
     font-family: 'CeraPRO-Thin';
-    src: local(※);
-         url('../css/font/Cera_Pro_Thin.woff2') format('woff2');
+    src: url('../css/font/Cera_Pro_Thin.woff2') format('woff2');
     font-style: normal;
     font-weight: normal;
 }
 @font-face {
     font-family: 'Austin Web';
-    src: local(※);
-          url('../css/font/Austin-Extrabold-Web.woff2') format('woff2');
+    src: url('../css/font/Austin-Extrabold-Web.woff2') format('woff2');
     font-style: normal;
     font-weight: normal;
 }
 @font-face {
     font-family: 'Spoqa Han Sans Regular';
-    src: local(※);
-         url('../css/font/Spoqa_Han_SansRegular.woff2') format('woff2');
+    src: url('../css/font/Spoqa_Han_SansRegular.woff2') format('woff2');
     font-style: normal;
     font-weight: normal;
 }
 @font-face {
     font-family: 'Spoqa Han Sans Thin';
     src: local(※);
-        url('../css/font/Spoqa_Han_SansThin.woff2') format('woff2');
+          url('../css/font/Spoqa_Han_SansThin.woff2') format('woff2');
     font-style: normal;
     font-weight: normal;
 }
